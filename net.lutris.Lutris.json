@@ -1,8 +1,8 @@
 {
   "app-id": "net.lutris.Lutris",
-  "runtime": "org.gnome.Platform",
-  "runtime-version": "3.26",
-  "sdk": "org.gnome.Sdk",
+  "runtime": "org.freedesktop.Platform",
+  "runtime-version": "1.6",
+  "sdk": "org.freedesktop.Sdk",
   "command": "lutris",
   "rename-desktop-file": "lutris.desktop",
   "rename-appdata-file": "lutris.appdata.xml",
@@ -61,8 +61,8 @@
         "pip3 install --prefix=/app --no-deps ."
       ],
       "sources": [{
-        "type": "git",
-        "url": "https://github.com/lutris/lutris.git"
+        "type": "archive",
+        "url": "http://lutris.net/releases/lutris_0.4.14.tar.xz"
       }]
     }
   ]
