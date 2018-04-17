@@ -114,9 +114,9 @@
                 },
                 {
                     "type": "extra-data",
-                    "url": "http://cemu.info/releases/cemu_1.11.5.zip",
-                    "size": 4366470,
-                    "sha256": "14aa3886d5b86f8a81375011d8d5593d10244e0923b6128295cd9e32d7b35bd1",
+                    "url": "http://cemu.info/releases/cemu_1.11.6.zip",
+                    "size": 4425991,
+                    "sha256": "9fecf9ace3328d9c4dba3ef0919fdcc1e8624dd1eeb94228f3c0628cbd0ea6f5",
                     "filename": "cemu.zip"
                 },
                 {
